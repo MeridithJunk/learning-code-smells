@@ -1,2 +1,4 @@
-# learning-code-smells
-learning code smells 
+# Object Oriented Abusers  
+All these smells are incomplete or incorrect application of object-oriented programming principles.
+
+
